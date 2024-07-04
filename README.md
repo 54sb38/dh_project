@@ -3,6 +3,7 @@ Thesis project of my master's degree at the University of Queensland. I discover
 
 I am developing (by March 2024) the testbed prototype for this project using Unity. The prototype involves a digital human coach with a dialogue system and UI. 
 
+Watch a demo:
 
 [![Watch the video](https://img.youtube.com/vi/e9lG7nsJq2I/maxresdefault.jpg)](https://youtube.com/shorts/e9lG7nsJq2I)
 
